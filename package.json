@@ -1,0 +1,8 @@
+{
+  "name": "fileUp",
+  "version": "1.0",
+  "author": "Yogesh Kumar <ykumards@gmail.com>",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  }
+}
